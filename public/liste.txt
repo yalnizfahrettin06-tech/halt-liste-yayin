@@ -1,5 +1,5 @@
 # @halt-liste: 1
-# @version: 202609262044
+# @version: 202609262050
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
 # kaynakları (MIT, CC BY 4.0) — ayrıntı: tools/liste_secme.py
 # @category: adult
