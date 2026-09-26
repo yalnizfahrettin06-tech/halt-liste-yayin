@@ -1,5 +1,5 @@
 # @halt-liste: 1
-# @version: 202609262050
+# @version: 202609262133
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
 # kaynakları (MIT, CC BY 4.0) — ayrıntı: tools/liste_secme.py
 # @category: adult
@@ -4206,3 +4206,6 @@ videoslots.com
 westlotto.de
 winbet.bg
 zenitbet.com
+# @category: adult
+# @category: gambling
+# @pass:
