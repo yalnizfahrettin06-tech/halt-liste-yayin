@@ -1,5 +1,5 @@
 # @halt-liste: 1
-# @version: 202609262133
+# @version: 202609271215
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
 # kaynakları (MIT, CC BY 4.0) — ayrıntı: tools/liste_secme.py
 # @category: adult
@@ -1805,63 +1805,6 @@ zbahis3.com
 zbahis4.com
 zbahis5.com
 zupee.com
-# @category: news
-hurriyet.com.tr
-milliyet.com.tr
-sozcu.com.tr
-sabah.com.tr
-haberturk.com
-cnnturk.com
-ntv.com.tr
-halktv.com.tr
-t24.com.tr
-cumhuriyet.com.tr
-birgun.net
-odatv.com
-yenisafak.com
-aksam.com.tr
-takvim.com.tr
-posta.com.tr
-mynet.com
-ensonhaber.com
-haber7.com
-internethaber.com
-sondakika.com
-webtekno.com
-donanimhaber.com
-eksisozluk.com
-eksiseyler.com
-incisozluk.com.tr
-uludagsozluk.com
-cnn.com
-bbc.com
-bbc.co.uk
-nytimes.com
-washingtonpost.com
-theguardian.com
-reuters.com
-apnews.com
-bloomberg.com
-wsj.com
-ft.com
-aljazeera.com
-foxnews.com
-nbcnews.com
-cbsnews.com
-abcnews.go.com
-usatoday.com
-huffpost.com
-buzzfeed.com
-buzzfeednews.com
-vice.com
-vox.com
-slate.com
-dailymail.co.uk
-thesun.co.uk
-mirror.co.uk
-nypost.com
-news.google.com
-news.yahoo.com
 # @stem: gambling
 artemisbet
 asyabahis
