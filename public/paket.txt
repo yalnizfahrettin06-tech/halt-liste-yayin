@@ -1,6 +1,6 @@
-# @sig: MEQCID/yHjVR+H1Yg/FfiP0ocO/eJ2wSXC5Aw/AnBSYTCqbbAiBGlmf7MQy/jOENG1HXf7FaO8mycpWCU7EiEsWMXWAJOQ==
+# @sig: MEUCIQDZCZ0vMWOkiHX5uIs6jlDI6QEkVobHanaz5uKiEAzISQIgOp9ICUZ0+6VnmJcvFNPr17i9fuHQKVfJe+x5d4CIHG8=
 # @halt-liste: 1
-# @version: 202610132058
+# @version: 202610132142
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
 # kaynakları (MIT, CC BY 4.0), ShadowWhisperer/BlockLists ve
 # blocklistproject/Lists (Unlicense) — ayrıntı: tools/liste_secme.py
