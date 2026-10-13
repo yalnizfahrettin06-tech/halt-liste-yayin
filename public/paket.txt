@@ -1,8 +1,9 @@
-# @sig: MEYCIQDWizG4FPdpq7HusuVjpWK3cvhlVuL9MNQL7oFgkdxi7gIhAPS7jqei7qY8CUyprF2PdAbPkKrMVdjciCn2SPF2ksNz
+# @sig: MEUCIHc4o5183ORJbdnAB/Ku06n29xIcnX3JiSppFNXNVoUqAiEAya/Nh4+Rytt64Z2D7mPDLQdDOXpwGAciPpaq/tyBciw=
 # @halt-liste: 1
-# @version: 202610131858
+# @version: 202610132029
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
-# kaynakları (MIT, CC BY 4.0) — ayrıntı: tools/liste_secme.py
+# kaynakları (MIT, CC BY 4.0), ShadowWhisperer/BlockLists ve
+# blocklistproject/Lists (Unlicense) — ayrıntı: tools/liste_secme.py
 # @category: adult
 pornhub.com
 xvideos.com
@@ -1172,6 +1173,20 @@ dns.brahma.world
 doh.libredns.gr
 dns.digitale-gesellschaft.ch
 # @category: gambling
+nesine.com
+bilyoner.com
+misli.com
+bitalih.com
+oley.com
+tuttur.com
+birebin.com
+sportoto.gov.tr
+millipiyangoonline.com
+millipiyango.gov.tr
+sisalsans.com.tr
+ekuri.com
+hipodrom.com
+altiliganyan.com
 12bet.com
 12bet.net
 188bet.com
@@ -1958,6 +1973,58 @@ girisim
 adresim
 adresi
 linki
+girislerim
+girislerin
+girisler
+girisin
+adresimiz
+adresler
+adressi
+adresin
+adress
+sorunsuz
+limitsiz
+orijinal
+orjinal
+erisimi
+erisim
+direkt
+guvenli
+sponsor
+platform
+siteleri
+sitesi
+linkleri
+aktif
+hizli
+kolay
+gercek
+giriss
+gris
+ozel
+son
+ana
+new
+gir
+tek
+ilk
+im
+in
+s
+# @stemprefix:
+orijinal
+orjinal
+girisi
+giris
+guncel
+mobil
+resmi
+yeni
+turk
+vip
+www
+vww
+tr
 # @contains: gambling
 bahis
 iddaa
@@ -2049,6 +2116,21 @@ trendbet
 jasminbet
 afroditbet
 betsolo
+# @pair: gambling
+bet giris
+bet adres
+bet guncel
+bet resmi
+bet erisim
+casino giris
+casino resmi
+casino adres
+casino guncel
+slot resmi
+slot giris
+poker giris
+poker resmi
+toto resmi
 # @contains: adult
 porn
 porno
@@ -2197,6 +2279,10 @@ germansfw
 loksatta
 jansatta
 sattar
+diyabet
+diabet
+alfabet
+alphabet
 # @safetld:
 org
 gov
@@ -2895,7 +2981,6 @@ ajaibslots
 alawincasino
 alevcasino
 alexandercasino
-alfabet
 alfcasino
 allbet
 allcasino
@@ -2918,6 +3003,7 @@ amunra
 amunra-casino
 amunracasino
 anadolucasino
+anadoluslot
 angkabet
 antbet
 apaldo
@@ -2926,6 +3012,7 @@ apexcasino
 aphrodite-casino
 aphroditecasino
 aposta
+apostas
 aqua-casino
 aquaspinscasino
 aquawincasino
@@ -2972,7 +3059,6 @@ b7casinos
 b9casino
 bahis
 bahiscasino
-bahiscasino-aktif
 bahiscasino-guncell
 bahiscasinom
 bahiscasinoya
@@ -3068,7 +3154,6 @@ betcitycasino
 betclic
 betcliccasino
 betclick
-betco
 betcoin
 betera
 beteum
@@ -3087,7 +3172,6 @@ betfury
 betgcc
 betgo
 betgroup
-bethall
 bethallcasino
 bethard
 bethh
@@ -3144,9 +3228,7 @@ bets-move
 bets10-anlik
 bets10-son
 bets10-tek
-bets10aktif
 bets10anlik
-bets10guvenli
 bets10tek
 bets24casino
 bets24casinos
@@ -3178,7 +3260,6 @@ betslots
 betsmatch
 betsmatches
 betsnicetv
-betso
 betsport
 betsrolex
 betsson
@@ -3189,10 +3270,7 @@ betstar
 betsul
 betsuper
 betswap
-betsy
-betti
 bettilt
-betty
 bettycasino
 bettywins
 betunlim
@@ -3332,7 +3410,6 @@ casibom-casino
 casibomcasino
 casimbacasino
 casin0ly
-casina
 casinacho
 casinado
 casinadocasino
@@ -3451,7 +3528,6 @@ casinoeuropa
 casinoextra
 casinoextreme
 casinofast
-casinofast-orjinal
 casinofenix
 casinoff
 casinoflagman
@@ -3532,12 +3608,12 @@ casinopaypal
 casinopaysafecard
 casinopelican
 casinoper
+casinoper-duck
 casinoper-guncell
 casinopertv
 casinopinco
 casinopinup
 casinoplanet
-casinoplatform
 casinoplatin
 casinoplay
 casinoplus
@@ -3561,6 +3637,7 @@ casinorox
 casinoroyal
 casinoroyal-guncell
 casinoroyale
+casinoroyalin
 casinoroyall
 casinoroyl
 casinoroys
@@ -3569,7 +3646,6 @@ casinosclassic
 casinoselector
 casinosenligne
 casinoseven
-casinositeleri
 casinosites
 casinosky
 casinoslot
@@ -3645,7 +3721,6 @@ cazillacasino
 cazimbocasino
 celsiuscasino
 celtabet
-cenabet
 champion-casino
 champion-slots-casino
 championcasino
@@ -4003,7 +4078,6 @@ glory-casino
 glorycasino
 glorycasinos
 go99casino
-gobet
 godzcasino
 godzcasinos
 gogocasino
@@ -4097,6 +4171,7 @@ highflycasino
 highrollercasino
 hiltonbet
 hipercasino
+hitbet
 hitnspin
 hitnspincasino
 hizlicasino
@@ -4112,7 +4187,6 @@ horuscasino
 hotlinecasino
 hotskins-casino
 hotslots
-hovarda
 hrust-casino
 hubet
 hugo-casino
@@ -4216,61 +4290,46 @@ jlbet
 jlslot
 jlslots
 join567slots
-jojobet-aktif
 jojobet-amp
 jojobet-bahis
 jojobet-bayram
 jojobet-casino
 jojobet-e
-jojobet-erisim
-jojobet-gercek
 jojobet-gir
 jojobet-girisimiz
-jojobet-girisler
 jojobet-guncell
 jojobet-guncellenen
 jojobet-guvenilir
 jojobet-haziran
-jojobet-hizli
 jojobet-ios
 jojobet-jojo
 jojobet-jojobet
-jojobet-kolay
 jojobet-live
 jojobet-mobilden
 jojobet-net
-jojobet-orijinal
-jojobet-orjinal
 jojobet-pro
 jojobet-resmii
 jojobet-slot
 jojobet-son
-jojobet-sorunsuz
 jojobet-tek
 jojobet-web
 jojobet-yenilenen
 jojobet8l
-jojobetaktif
 jojobetbahis
 jojobetbayram
 jojobetcasino
 jojobetcasino-web
 jojobete
 jojobetek
-jojobeterisim
-jojobetgercek
 jojobetgirisadresv
 jojobetguncell
-jojobetguvenli
 jojobethaziran
-jojobethizli
 jojobeti
 jojobetin
 jojobetl
-jojobetorijinal
-jojobetorjinal
 jojobets
 jojobett
+jojobettek
 jojobetx
 jokabet
 jokacasino
@@ -4449,7 +4508,6 @@ librabet
 lidercasino
 like-casino
 likecasino
-lilibet
 lilibetcasino
 limanbet
 limitlesscasino
@@ -4546,7 +4604,6 @@ mad-casino
 madcasino
 madridbet-en
 madridbet-gir
-madridbet-orjinal
 madridbet-playgaming
 madridbet-tek
 madridbetslegir
@@ -4583,13 +4640,11 @@ marvel-casino
 marvelcasino
 masterbets
 masterpoker
-matbet-aktif
 matbet-amp
-matbet-orjinal
 matbet-resmii
 matbet-tek
-matbetguvenli
 matbeti
+matbetin
 matbets
 matbett
 matbettek
@@ -4641,7 +4696,6 @@ mercurecasino
 meritbet
 meritbet-xyz
 meritbetana
-meritbetguvenli
 meritbets
 meritbett
 meritlimancasino
@@ -4978,10 +5032,10 @@ pokerdoms
 pokerhebat
 pokerking
 pokerklas
-pokerklas-aktif
+pokerklas-bayram
 pokerklas-casino
+pokerklas-new
 pokerklas-tek
-pokerklasgercek
 pokerklass
 pokerlas
 pokernet
@@ -5084,7 +5138,6 @@ reelsofjoycasino
 refpa
 reloadbet
 resmijojobet
-respin
 retabet
 retrobet
 retrobetcasino
@@ -5114,7 +5167,6 @@ riverbellecasino
 rizk-casino
 rnatbet
 robobet
-robocat
 robocatcasino
 robycasino
 rockbet
@@ -5243,7 +5295,7 @@ skycitycasino
 skycrowncasino
 skyhillscasino
 slimkingcasino
-slota
+slot-casino
 slotastic
 slotbet
 slotboxcasino
@@ -5314,7 +5366,6 @@ slotsplay
 slotsri
 slotsultan
 slotsvader
-slott
 slott-casino
 slottica
 slottica-casino
@@ -5327,7 +5378,6 @@ slotuna
 slotv
 slotvibe
 slotvip
-sloty
 smashcasino
 smoky-casino
 snatchcasino
@@ -5441,7 +5491,6 @@ spinsy-casino
 spinsycasino
 spintexas
 spintimecasino
-spinto
 spinto-casino
 spintropolis
 spinwin
@@ -5557,6 +5606,7 @@ tikicasino
 tikitaka
 tikitakacasino
 time4bets
+timebet
 timislots
 tip-top-casino
 tipobets
@@ -5598,6 +5648,7 @@ towercasino
 tpsbet
 tr-jojobet
 tradacasino
+trcasino
 treasurespins
 trinocasino
 triobet
@@ -5615,6 +5666,7 @@ ttkbet
 ttslot
 tucancasino
 turbo-casino
+turkcasino
 turkiye-1xbet
 turnkeycasino
 tuyencasino
@@ -5630,6 +5682,7 @@ uedbet
 ufabet
 ufacasino
 ukcasino
+ultrabet
 ultrabets
 ultracasino
 umbet
@@ -5823,6 +5876,7 @@ www-bet
 www-jojobet
 www-madridbet
 www-matbet
+www-mobil-jojobet
 www-slot
 wwwbetsmove
 wynscasino
@@ -24637,6 +24691,7 @@ porn4days-cc.lickmypussy.org
 porn8k.org
 pornaddiction-com.webpkgcache.com
 pornaddiction.com
+pornalphabet.com
 pornarab.org
 pornbb.org
 pornbbs.org
@@ -33546,12 +33601,10 @@ zzztube.ru
 1-x-mirror.com
 1-xslots.com
 101ae888.com
-101ggbet.com
 10luxury39.com
 111c54.com
 111slots.com
 118kbet.com
-11betvnd.com
 11laki.com
 11wickets.com
 11win.beer
@@ -33582,14 +33635,11 @@ zzztube.ru
 123bong.vg
 123win.pro
 12b99.com
-12betvnd.com
 12fifa2018.com
 12laki.com
 1337bid.com
 138.com
 1388.com
-14betvnd.com
-14winvn.com
 157win.com
 165337.com
 168kbet.com
@@ -33609,11 +33659,9 @@ zzztube.ru
 188pscn2.com
 188thethao.com
 18luck.pro
-191slotsgo.cc
 1bet2bet.com
 1casinoenlignequebec.org
 1eight8.com
-1exbet.com
 1exch.games
 1gamble247.club
 1gamble247.org
@@ -33669,12 +33717,10 @@ zzztube.ru
 2005wsop.com
 2024xemwc.com
 20beta.com
-20betvnd.com
 2222039.com
 228kbet.com
 22ee88.com
 22zalo.com
-23winvn.com
 247gamble.club
 247gamble.us
 247igamble.cc
@@ -33689,9 +33735,7 @@ zzztube.ru
 2betab.com
 2betesi.com
 2laki.com
-2winbet.gr
 2x3x.com
-30winvn.com
 32red.com
 32redslots.com
 32redsport.com
@@ -33767,7 +33811,6 @@ zzztube.ru
 58win.cool
 5dimes.com
 5laki.com
-5shbet.com
 608822.com
 63jilislots.com
 63wan.com
@@ -33791,11 +33834,9 @@ zzztube.ru
 7744789.com
 7777.bg
 777azinocasino.org
-777bets.co.uk
 777jackpots.org
 777pubcasino.org
 777tech.me
-777vulkancasino.org
 7788one.com
 77ae888.com
 77betitall7.com
@@ -33861,7 +33902,6 @@ zzztube.ru
 7epta7.com
 7k-slots.club
 7laki.com
-7slotsplay.com
 7slotswin.pro
 7slotswin.xyz
 800774.com
@@ -33886,8 +33926,6 @@ zzztube.ru
 888betsoff.org
 888bingo.com
 888bvn.vip
-888casinos.org
-888slots.net
 888thao.com
 88asia88.com
 88bet88bet.com
@@ -34084,6 +34122,7 @@ alo789.com
 alo789.vip
 alo789viet.com
 alo888.com
+alphabetscasino.com
 alphadraft.com
 altgambler.com
 amazon-slots.com
@@ -34418,8 +34457,6 @@ betsocial.net
 betsonic.com
 betspawn.com
 betsrv.com
-betstars.com
-betstars.uk
 betswar.com
 bettap.com
 bettbet.com
@@ -34700,7 +34737,6 @@ casinosnotonbetstop.org
 casinosnotongamstop.eu
 casinosnotongamstop.net
 casinosnotongamstop.online
-casinosnuevos.org
 casinosport888.org
 casinostudy.org
 casinotg.org
@@ -35548,9 +35584,6 @@ ggbbbet.com
 ggbetbet.net
 ggbetcenter1.net
 ggbetglobal.com
-ggbets.co
-ggbets.ph
-ggbets1.co
 ggbetz.ph
 gi8.us
 gi888.cc
@@ -35611,7 +35644,6 @@ godbunny.org
 gogobolaku.com
 golazobet.com
 goldbetsports.com
-goldcasinos.org
 goldenbetsng.com
 goldfishka328.com
 goldfishka329.com
@@ -35633,7 +35665,6 @@ greetingsfromfunner.com
 grhellskitchenlaketahoe.com
 grindloungecasino.org
 gsop.info
-gtbets.eu
 gtorb.com
 guestlistbingo.com
 gullybet999.com
@@ -35786,6 +35817,7 @@ hotloot88.io
 hotslotsreviews.com
 houston-gamblers.com
 houstongamblingproblem.com
+hovarda8002.com
 hpbet.com
 hrwager.ag
 hughesbet.com
@@ -36270,6 +36302,7 @@ ligadiatas.com
 lightbet.com
 lightpoker88.me
 lightpoker88.xyz
+lilibet-casino.org
 linesmaker.eu
 link123b.com
 link2bet.com
@@ -36871,7 +36904,6 @@ nohu35.com
 nohudoithuong.win
 nohuk8.info
 nokycgamble.com
-non-ukcasinos.org
 nontonpk8.net
 nopeampi.com
 norgesautomaten.com
@@ -37424,12 +37456,6 @@ pokerhandpost.com
 pokerimaa.com
 pokermax.com
 pokermaya.com
-pokerstars.bg
-pokerstars.cz
-pokerstars.eu
-pokerstars.pt
-pokerstars.store
-pokerstars.uk
 pokerstarsinsochi.com
 pokerstarslearn.lat
 pokerstarslive.com
@@ -37543,7 +37569,6 @@ reddyind365.com
 reddylotus.com
 reddyybook.club
 redmilebets.com
-redspins.com
 redstarsports.eu
 reelraven.io
 reelraven45.io
@@ -37820,6 +37845,7 @@ slotswin.xyz
 slotszar.co.za
 slottyvegas.com
 slottywaycasino.org
+sloty.com
 slotycasino.org
 sm611.com
 smokace.net
@@ -37955,7 +37981,6 @@ sun52.live
 sun52.tv
 sun6.win
 sun88.sc
-sunbets.co.uk
 sunwin.af
 sunwin.club
 sunwin.id
@@ -37969,7 +37994,6 @@ sunwin.sx
 sunwinchinhhang.com
 sunwinvn.club
 suomikasino.com
-supabets.com.gh
 super88.club
 superbook.ag
 superlenny.com
@@ -37977,7 +38001,6 @@ superpk88.com
 superpk88.org
 superpk88.tech
 superslotsgames.com
-superslotssites.com
 supersoccer.co.uk
 supertopfun.com
 supirnol.com
@@ -38361,7 +38384,6 @@ uk88chinhhang.com
 ukonlineslots.com
 ukrainianbonus.eu
 ultimate-odds.com
-ultrabet852.com
 ultrawin.app
 unionbet.com
 unpretentiouslyluxurious.com
@@ -38761,6 +38783,7 @@ vulkan-russian.xyz
 vulkan-slotmachines.pics
 vulkan-slots.biz
 vulkan-slots.co
+vulkan-sloty24.ru
 vulkan-ukraine.com.ua
 vulkan-vegas-at.com
 vulkan-vip-club.net
