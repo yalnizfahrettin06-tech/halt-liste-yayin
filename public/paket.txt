@@ -1,6 +1,6 @@
-# @sig: MEQCIFjTuRT1t6tc75xAgAtMzrxZ8fNetSy6QHUBluk4ci6cAiAPDpcQNCapBxcQg54y1hEXKvGNsV8ulhW84AtskwQifA==
+# @sig: MEQCID/yHjVR+H1Yg/FfiP0ocO/eJ2wSXC5Aw/AnBSYTCqbbAiBGlmf7MQy/jOENG1HXf7FaO8mycpWCU7EiEsWMXWAJOQ==
 # @halt-liste: 1
-# @version: 202610132042
+# @version: 202610132058
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
 # kaynakları (MIT, CC BY 4.0), ShadowWhisperer/BlockLists ve
 # blocklistproject/Lists (Unlicense) — ayrıntı: tools/liste_secme.py
@@ -1172,6 +1172,38 @@ freedns.controld.com
 dns.brahma.world
 doh.libredns.gr
 dns.digitale-gesellschaft.ch
+adguard-dns.com
+dns.mullvad.net
+dns0.eu
+dns9.quad9.net
+dns11.quad9.net
+dns12.quad9.net
+dns.umbrella.com
+canadianshield.cira.ca
+dot.dns.yandex.net
+dns.alidns.com
+doh.pub
+dns.pub
+doh.360.cn
+dot.360.cn
+dns.twnic.tw
+dns.switch.ch
+dns.njal.la
+doh.applied-privacy.net
+dnsforge.de
+dns.comss.one
+dns.rabbitdns.org
+dns.surfsharkdns.com
+doh.xfinity.com
+dns.decloudus.com
+doh.tiar.app
+dot.tiar.app
+doh.ffmuc.net
+dns.aa.net.uk
+odvr.nic.cz
+dns.bebasid.com
+dns.digitalsize.net
+sec-tunnel.com
 # @category: gambling
 nesine.com
 bilyoner.com
