@@ -1,6 +1,6 @@
-# @sig: MEUCIB4cMYt22U1IHIsqZWa9pwIrFYkvDiqif18pIBbhWEkWAiEApqFuVF+5A/P4zPnuLVgSYuJqjM4nqWwLviAl1c4dKUo=
+# @sig: MEUCIHeaNPGzxBMie7wHcVwSyI8ypvm3eimVvWOLN+hINgwFAiEA4S7K+M0mgxy/6LNBk/bLjT2dSPrcj1eZ7zvdEcoFMGA=
 # @halt-liste: 1
-# @version: 202610140554
+# @version: 202610141407
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
 # kaynakları (MIT, CC BY 4.0), ShadowWhisperer/BlockLists ve
 # blocklistproject/Lists (Unlicense) — ayrıntı: tools/liste_secme.py
@@ -1974,6 +1974,11 @@ images.yandex.com.tr
 m.yandex.ru
 m.yandex.com.tr
 m.yandex.com
+# @category: adult
+images.search.yahoo.com
+video.search.yahoo.com
+imgs.search.brave.com
+startpage.com
 # @stemsuffix:
 guncelgiris
 yeniadres
