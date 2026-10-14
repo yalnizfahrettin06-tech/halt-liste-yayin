@@ -1,6 +1,6 @@
-# @sig: MEUCIQDZCZ0vMWOkiHX5uIs6jlDI6QEkVobHanaz5uKiEAzISQIgOp9ICUZ0+6VnmJcvFNPr17i9fuHQKVfJe+x5d4CIHG8=
+# @sig: MEUCIB4cMYt22U1IHIsqZWa9pwIrFYkvDiqif18pIBbhWEkWAiEApqFuVF+5A/P4zPnuLVgSYuJqjM4nqWwLviAl1c4dKUo=
 # @halt-liste: 1
-# @version: 202610132142
+# @version: 202610140554
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
 # kaynakları (MIT, CC BY 4.0), ShadowWhisperer/BlockLists ve
 # blocklistproject/Lists (Unlicense) — ayrıntı: tools/liste_secme.py
@@ -1937,6 +1937,43 @@ casino
 poker
 bingo
 lotto
+# @exact: adult
+yandex.com
+www.yandex.com
+yandex.ru
+www.yandex.ru
+ya.ru
+www.ya.ru
+yandex.com.tr
+www.yandex.com.tr
+yandex.by
+www.yandex.by
+yandex.kz
+www.yandex.kz
+yandex.ua
+www.yandex.ua
+yandex.uz
+www.yandex.uz
+yandex.az
+www.yandex.az
+yandex.com.am
+yandex.com.ge
+yandex.co.il
+yandex.ee
+yandex.lv
+yandex.lt
+yandex.md
+yandex.tj
+yandex.tm
+yandex.kg
+yandex.fr
+yandex.eu
+images.yandex.ru
+images.yandex.com
+images.yandex.com.tr
+m.yandex.ru
+m.yandex.com.tr
+m.yandex.com
 # @stemsuffix:
 guncelgiris
 yeniadres
