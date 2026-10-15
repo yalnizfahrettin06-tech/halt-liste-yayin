@@ -1,5 +1,5 @@
 # @halt-liste: 1
-# @version: 202610141407
+# @version: 202610151707
 # Halt engel listesi. Hazır liste atfı: StevenBlack/hosts (MIT) ve eklenti
 # kaynakları (MIT, CC BY 4.0), ShadowWhisperer/BlockLists ve
 # blocklistproject/Lists (Unlicense) — ayrıntı: tools/liste_secme.py
@@ -2204,6 +2204,47 @@ slot giris
 poker giris
 poker resmi
 toto resmi
+# @numword: gambling
+bet
+# @numexcept:
+alphabet
+alfabet
+tibet
+thibet
+sorbet
+sherbet
+quodlibet
+gibbet
+gobbet
+rabbet
+sohbet
+muhabbet
+nobet
+diyabet
+serbet
+rekabet
+isabet
+akibet
+gurbet
+heybet
+hitabet
+munasebet
+musibet
+ragbet
+cenabet
+kitabet
+garabet
+giybet
+tababet
+rutubet
+niyabet
+mehabet
+muebbet
+elisabet
+elizabet
+lisbet
+lilibet
+erzsebet
 # @contains: adult
 porn
 porno
